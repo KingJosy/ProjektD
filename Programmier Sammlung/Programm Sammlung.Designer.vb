@@ -23,14 +23,14 @@ Partial Class Sammlung
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Sammlung))
-        Me.cmd_End = New System.Windows.Forms.Button
-        Me.cmd_Sonne = New System.Windows.Forms.Button
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox
-        Me.cmd_BMI = New System.Windows.Forms.Button
-        Me.cmd_Zinsrechner = New System.Windows.Forms.Button
-        Me.cmd_game1 = New System.Windows.Forms.Button
-        Me.Button1 = New System.Windows.Forms.Button
+        Me.cmd_End = New System.Windows.Forms.Button()
+        Me.cmd_Sonne = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.cmd_BMI = New System.Windows.Forms.Button()
+        Me.cmd_Zinsrechner = New System.Windows.Forms.Button()
+        Me.cmd_game1 = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
