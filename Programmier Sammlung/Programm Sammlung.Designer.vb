@@ -25,41 +25,40 @@ Partial Class Sammlung
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Sammlung))
         Me.cmd_End = New System.Windows.Forms.Button()
         Me.cmd_Sonne = New System.Windows.Forms.Button()
+<<<<<<< Updated upstream
         Me.Label1 = New System.Windows.Forms.Label()
+=======
+>>>>>>> Stashed changes
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.cmd_BMI = New System.Windows.Forms.Button()
         Me.cmd_Zinsrechner = New System.Windows.Forms.Button()
         Me.cmd_game1 = New System.Windows.Forms.Button()
+<<<<<<< Updated upstream
         Me.Button1 = New System.Windows.Forms.Button()
+=======
+        Me.cmd_Zahlenraten = New System.Windows.Forms.Button()
+        Me.cmd_Taschenrechner = New System.Windows.Forms.Button()
+>>>>>>> Stashed changes
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'cmd_End
         '
-        Me.cmd_End.Location = New System.Drawing.Point(337, 387)
+        Me.cmd_End.Location = New System.Drawing.Point(326, 387)
         Me.cmd_End.Name = "cmd_End"
-        Me.cmd_End.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_End.Size = New System.Drawing.Size(86, 23)
         Me.cmd_End.TabIndex = 0
         Me.cmd_End.Text = "Beenden"
         Me.cmd_End.UseVisualStyleBackColor = True
         '
         'cmd_Sonne
         '
-        Me.cmd_Sonne.Location = New System.Drawing.Point(119, 244)
+        Me.cmd_Sonne.Location = New System.Drawing.Point(15, 244)
         Me.cmd_Sonne.Name = "cmd_Sonne"
-        Me.cmd_Sonne.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_Sonne.Size = New System.Drawing.Size(86, 23)
         Me.cmd_Sonne.TabIndex = 1
-        Me.cmd_Sonne.Text = "Aufgabe 1"
+        Me.cmd_Sonne.Text = "Sonne/Mond"
         Me.cmd_Sonne.UseVisualStyleBackColor = True
-        '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(12, 249)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(89, 13)
-        Me.Label1.TabIndex = 2
-        Me.Label1.Text = "Sonne und Mond"
         '
         'PictureBox1
         '
@@ -72,67 +71,75 @@ Partial Class Sammlung
         '
         'cmd_BMI
         '
-        Me.cmd_BMI.Location = New System.Drawing.Point(15, 341)
+        Me.cmd_BMI.Location = New System.Drawing.Point(15, 358)
         Me.cmd_BMI.Name = "cmd_BMI"
-        Me.cmd_BMI.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_BMI.Size = New System.Drawing.Size(86, 23)
         Me.cmd_BMI.TabIndex = 4
         Me.cmd_BMI.Text = "BMI Rechner"
         Me.cmd_BMI.UseVisualStyleBackColor = True
         '
         'cmd_Zinsrechner
         '
-        Me.cmd_Zinsrechner.Location = New System.Drawing.Point(15, 370)
+        Me.cmd_Zinsrechner.Location = New System.Drawing.Point(15, 387)
         Me.cmd_Zinsrechner.Name = "cmd_Zinsrechner"
-        Me.cmd_Zinsrechner.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_Zinsrechner.Size = New System.Drawing.Size(86, 23)
         Me.cmd_Zinsrechner.TabIndex = 5
         Me.cmd_Zinsrechner.Text = "Zinsrechner"
         Me.cmd_Zinsrechner.UseVisualStyleBackColor = True
         '
         'cmd_game1
         '
-        Me.cmd_game1.Location = New System.Drawing.Point(200, 244)
+        Me.cmd_game1.Location = New System.Drawing.Point(234, 244)
         Me.cmd_game1.Name = "cmd_game1"
-        Me.cmd_game1.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_game1.Size = New System.Drawing.Size(86, 23)
         Me.cmd_game1.TabIndex = 6
-        Me.cmd_game1.Text = "Game 1"
+        Me.cmd_game1.Text = "Spiel"
         Me.cmd_game1.UseVisualStyleBackColor = True
         '
-        'Button1
+        'cmd_Zahlenraten
         '
-        Me.Button1.Location = New System.Drawing.Point(282, 305)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
-        Me.Button1.TabIndex = 7
-        Me.Button1.Text = "Button1"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.cmd_Zahlenraten.Location = New System.Drawing.Point(326, 244)
+        Me.cmd_Zahlenraten.Name = "cmd_Zahlenraten"
+        Me.cmd_Zahlenraten.Size = New System.Drawing.Size(86, 23)
+        Me.cmd_Zahlenraten.TabIndex = 7
+        Me.cmd_Zahlenraten.Text = "Zahlenraten"
+        Me.cmd_Zahlenraten.UseVisualStyleBackColor = True
+        '
+        'cmd_Taschenrechner
+        '
+        Me.cmd_Taschenrechner.Location = New System.Drawing.Point(15, 329)
+        Me.cmd_Taschenrechner.Name = "cmd_Taschenrechner"
+        Me.cmd_Taschenrechner.Size = New System.Drawing.Size(86, 23)
+        Me.cmd_Taschenrechner.TabIndex = 8
+        Me.cmd_Taschenrechner.Text = "Rechner"
+        Me.cmd_Taschenrechner.UseVisualStyleBackColor = True
         '
         'Sammlung
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(423, 422)
-        Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.cmd_Taschenrechner)
+        Me.Controls.Add(Me.cmd_Zahlenraten)
         Me.Controls.Add(Me.cmd_game1)
         Me.Controls.Add(Me.cmd_Zinsrechner)
         Me.Controls.Add(Me.cmd_BMI)
         Me.Controls.Add(Me.PictureBox1)
-        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.cmd_Sonne)
         Me.Controls.Add(Me.cmd_End)
         Me.Name = "Sammlung"
         Me.Text = "Form1"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
-        Me.PerformLayout()
 
     End Sub
     Friend WithEvents cmd_End As System.Windows.Forms.Button
     Friend WithEvents cmd_Sonne As System.Windows.Forms.Button
-    Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
     Friend WithEvents cmd_BMI As System.Windows.Forms.Button
     Friend WithEvents cmd_Zinsrechner As System.Windows.Forms.Button
     Friend WithEvents cmd_game1 As System.Windows.Forms.Button
-    Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents cmd_Zahlenraten As System.Windows.Forms.Button
+    Friend WithEvents cmd_Taschenrechner As System.Windows.Forms.Button
 
 End Class

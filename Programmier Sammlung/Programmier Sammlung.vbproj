@@ -22,6 +22,21 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -105,10 +120,22 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Rechner.Designer.vb">
+      <DependentUpon>Rechner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rechner.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Sonne_Mond.Designer.vb">
       <DependentUpon>Sonne_Mond.vb</DependentUpon>
     </Compile>
     <Compile Include="Sonne_Mond.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zahlenraten.Designer.vb">
+      <DependentUpon>Zahlenraten.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Zahlenraten.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Zinsrechner.Designer.vb">
@@ -134,8 +161,14 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Rechner.resx">
+      <DependentUpon>Rechner.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Sonne_Mond.resx">
       <DependentUpon>Sonne_Mond.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zahlenraten.resx">
+      <DependentUpon>Zahlenraten.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Zinsrechner.resx">
       <DependentUpon>Zinsrechner.vb</DependentUpon>
@@ -151,6 +184,18 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
