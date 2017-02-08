@@ -324,7 +324,7 @@
     End Sub
 
     Private Sub cmd_end_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmd_end.Click
-        Sammlung.Show()
+        Programm_Sammlung.Show()
         Me.Close()
     End Sub
 

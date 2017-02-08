@@ -47,7 +47,7 @@
     End Sub
 
     Private Sub cmd_Ende_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmd_Ende.Click
-        Sammlung.Show()
+        Programm_Sammlung.Show()
         Me.Close()
     End Sub
 End Class

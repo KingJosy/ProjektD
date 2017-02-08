@@ -63,4 +63,9 @@
     Private Sub cmd_Mal_Click(sender As Object, e As EventArgs) Handles cmd_Mal.Click
         txt_Eingabe.Text += "*"
     End Sub
+
+    Private Sub cmd_End_Click(sender As Object, e As EventArgs) Handles cmd_End.Click
+        Programm_Sammlung.Show()
+        Me.Close()
+    End Sub
 End Class

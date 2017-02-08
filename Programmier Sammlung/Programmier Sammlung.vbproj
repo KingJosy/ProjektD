@@ -98,13 +98,6 @@
     <Compile Include="Mensch_ärgere_dich_nicht.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Programm Sammlung.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Programm Sammlung.Designer.vb">
-      <DependentUpon>Programm Sammlung.vb</DependentUpon>
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -119,6 +112,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Programm Sammlung.Designer.vb">
+      <DependentUpon>Programm Sammlung.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Programm Sammlung.vb">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="Rechner.Designer.vb">
       <DependentUpon>Rechner.vb</DependentUpon>
@@ -152,14 +151,14 @@
     <EmbeddedResource Include="Mensch_ärgere_dich_nicht.resx">
       <DependentUpon>Mensch_ärgere_dich_nicht.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Programm Sammlung.resx">
-      <DependentUpon>Programm Sammlung.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programm Sammlung.resx">
+      <DependentUpon>Programm Sammlung.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Rechner.resx">
       <DependentUpon>Rechner.vb</DependentUpon>
