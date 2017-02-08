@@ -42,7 +42,7 @@ Partial Class Rechner
         Me.cmd_Neu = New System.Windows.Forms.Button()
         Me.lbl_Ergebnis = New System.Windows.Forms.Label()
         Me.Komma = New System.Windows.Forms.Button()
-        Me.rtb_Eingabe1 = New System.Windows.Forms.RichTextBox()
+        Me.txt_Eingabe1 = New System.Windows.Forms.RichTextBox()
         Me.rtb_Eingabe2 = New System.Windows.Forms.RichTextBox()
         Me.SuspendLayout()
         '
@@ -157,7 +157,7 @@ Partial Class Rechner
         '
         'cmd_Plus
         '
-        Me.cmd_Plus.Font = New System.Drawing.Font("Arial Narrow", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmd_Plus.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmd_Plus.Location = New System.Drawing.Point(344, 183)
         Me.cmd_Plus.Name = "cmd_Plus"
         Me.cmd_Plus.Size = New System.Drawing.Size(33, 30)
@@ -187,7 +187,7 @@ Partial Class Rechner
         '
         'cmd_Mal
         '
-        Me.cmd_Mal.Font = New System.Drawing.Font("Arial Narrow", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmd_Mal.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmd_Mal.Location = New System.Drawing.Point(344, 291)
         Me.cmd_Mal.Name = "cmd_Mal"
         Me.cmd_Mal.Size = New System.Drawing.Size(33, 30)
@@ -242,13 +242,13 @@ Partial Class Rechner
         Me.Komma.Text = ","
         Me.Komma.UseVisualStyleBackColor = True
         '
-        'rtb_Eingabe1
+        'txt_Eingabe1
         '
-        Me.rtb_Eingabe1.Location = New System.Drawing.Point(187, 114)
-        Me.rtb_Eingabe1.Name = "rtb_Eingabe1"
-        Me.rtb_Eingabe1.Size = New System.Drawing.Size(96, 26)
-        Me.rtb_Eingabe1.TabIndex = 21
-        Me.rtb_Eingabe1.Text = ""
+        Me.txt_Eingabe1.Location = New System.Drawing.Point(187, 114)
+        Me.txt_Eingabe1.Name = "txt_Eingabe1"
+        Me.txt_Eingabe1.Size = New System.Drawing.Size(96, 26)
+        Me.txt_Eingabe1.TabIndex = 21
+        Me.txt_Eingabe1.Text = ""
         '
         'rtb_Eingabe2
         '
@@ -264,7 +264,7 @@ Partial Class Rechner
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(421, 461)
         Me.Controls.Add(Me.rtb_Eingabe2)
-        Me.Controls.Add(Me.rtb_Eingabe1)
+        Me.Controls.Add(Me.txt_Eingabe1)
         Me.Controls.Add(Me.Komma)
         Me.Controls.Add(Me.lbl_Ergebnis)
         Me.Controls.Add(Me.cmd_Neu)
@@ -311,6 +311,6 @@ Partial Class Rechner
     Friend WithEvents cmd_Neu As System.Windows.Forms.Button
     Friend WithEvents lbl_Ergebnis As System.Windows.Forms.Label
     Friend WithEvents Komma As System.Windows.Forms.Button
-    Friend WithEvents rtb_Eingabe1 As System.Windows.Forms.RichTextBox
+    Friend WithEvents txt_Eingabe1 As System.Windows.Forms.RichTextBox
     Friend WithEvents rtb_Eingabe2 As System.Windows.Forms.RichTextBox
 End Class
