@@ -23,11 +23,6 @@
         Me.Hide()
         Mensch_ärgere_dich_nicht.Show()
     End Sub
-
-<<<<<<< Updated upstream
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-
-=======
     Private Sub cmd_Zahlenraten_Click(sender As Object, e As EventArgs) Handles cmd_Zahlenraten.Click
         Me.Hide()
         Zahlenraten.Show()
@@ -36,6 +31,9 @@
     Private Sub cmd_Taschenrechner_Click(sender As Object, e As EventArgs) Handles cmd_Taschenrechner.Click
         Me.Hide()
         Rechner.Show()
->>>>>>> Stashed changes
+    End Sub
+
+    Private Sub Sammlung_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
     End Sub
 End Class

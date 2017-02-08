@@ -42,7 +42,7 @@ Partial Class Rechner
         Me.cmd_Neu = New System.Windows.Forms.Button()
         Me.lbl_Ergebnis = New System.Windows.Forms.Label()
         Me.Komma = New System.Windows.Forms.Button()
-        Me.txt_Eingabe1 = New System.Windows.Forms.RichTextBox()
+        Me.txt_Eingabe = New System.Windows.Forms.RichTextBox()
         Me.rtb_Eingabe2 = New System.Windows.Forms.RichTextBox()
         Me.SuspendLayout()
         '
@@ -242,13 +242,13 @@ Partial Class Rechner
         Me.Komma.Text = ","
         Me.Komma.UseVisualStyleBackColor = True
         '
-        'txt_Eingabe1
+        'txt_Eingabe
         '
-        Me.txt_Eingabe1.Location = New System.Drawing.Point(187, 114)
-        Me.txt_Eingabe1.Name = "txt_Eingabe1"
-        Me.txt_Eingabe1.Size = New System.Drawing.Size(96, 26)
-        Me.txt_Eingabe1.TabIndex = 21
-        Me.txt_Eingabe1.Text = ""
+        Me.txt_Eingabe.Location = New System.Drawing.Point(187, 114)
+        Me.txt_Eingabe.Name = "txt_Eingabe"
+        Me.txt_Eingabe.Size = New System.Drawing.Size(96, 26)
+        Me.txt_Eingabe.TabIndex = 21
+        Me.txt_Eingabe.Text = ""
         '
         'rtb_Eingabe2
         '
@@ -264,7 +264,7 @@ Partial Class Rechner
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(421, 461)
         Me.Controls.Add(Me.rtb_Eingabe2)
-        Me.Controls.Add(Me.txt_Eingabe1)
+        Me.Controls.Add(Me.txt_Eingabe)
         Me.Controls.Add(Me.Komma)
         Me.Controls.Add(Me.lbl_Ergebnis)
         Me.Controls.Add(Me.cmd_Neu)
@@ -311,6 +311,6 @@ Partial Class Rechner
     Friend WithEvents cmd_Neu As System.Windows.Forms.Button
     Friend WithEvents lbl_Ergebnis As System.Windows.Forms.Label
     Friend WithEvents Komma As System.Windows.Forms.Button
-    Friend WithEvents txt_Eingabe1 As System.Windows.Forms.RichTextBox
+    Friend WithEvents txt_Eingabe As System.Windows.Forms.RichTextBox
     Friend WithEvents rtb_Eingabe2 As System.Windows.Forms.RichTextBox
 End Class
