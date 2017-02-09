@@ -31,6 +31,7 @@ Partial Class Programm_Sammlung
         Me.cmd_rechner = New System.Windows.Forms.Button()
         Me.cmd_Mensch = New System.Windows.Forms.Button()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.cmd_ÖhmischerRechner = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -47,25 +48,25 @@ Partial Class Programm_Sammlung
         '
         Me.cmd_sonne_mond.Location = New System.Drawing.Point(14, 235)
         Me.cmd_sonne_mond.Name = "cmd_sonne_mond"
-        Me.cmd_sonne_mond.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_sonne_mond.Size = New System.Drawing.Size(97, 23)
         Me.cmd_sonne_mond.TabIndex = 1
         Me.cmd_sonne_mond.Text = "Sonne Mond"
         Me.cmd_sonne_mond.UseVisualStyleBackColor = True
         '
         'cmd_BMI
         '
-        Me.cmd_BMI.Location = New System.Drawing.Point(93, 371)
+        Me.cmd_BMI.Location = New System.Drawing.Point(117, 371)
         Me.cmd_BMI.Name = "cmd_BMI"
-        Me.cmd_BMI.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_BMI.Size = New System.Drawing.Size(99, 23)
         Me.cmd_BMI.TabIndex = 2
         Me.cmd_BMI.Text = "BMI"
         Me.cmd_BMI.UseVisualStyleBackColor = True
         '
         'cmd_Zahlenraten
         '
-        Me.cmd_Zahlenraten.Location = New System.Drawing.Point(340, 235)
+        Me.cmd_Zahlenraten.Location = New System.Drawing.Point(318, 235)
         Me.cmd_Zahlenraten.Name = "cmd_Zahlenraten"
-        Me.cmd_Zahlenraten.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_Zahlenraten.Size = New System.Drawing.Size(97, 23)
         Me.cmd_Zahlenraten.TabIndex = 3
         Me.cmd_Zahlenraten.Text = "Zahlenraten"
         Me.cmd_Zahlenraten.UseVisualStyleBackColor = True
@@ -74,25 +75,25 @@ Partial Class Programm_Sammlung
         '
         Me.cmd_zinsrechner.Location = New System.Drawing.Point(12, 371)
         Me.cmd_zinsrechner.Name = "cmd_zinsrechner"
-        Me.cmd_zinsrechner.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_zinsrechner.Size = New System.Drawing.Size(99, 23)
         Me.cmd_zinsrechner.TabIndex = 4
         Me.cmd_zinsrechner.Text = "Zinsrechner"
         Me.cmd_zinsrechner.UseVisualStyleBackColor = True
         '
         'cmd_rechner
         '
-        Me.cmd_rechner.Location = New System.Drawing.Point(14, 342)
+        Me.cmd_rechner.Location = New System.Drawing.Point(12, 342)
         Me.cmd_rechner.Name = "cmd_rechner"
-        Me.cmd_rechner.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_rechner.Size = New System.Drawing.Size(99, 23)
         Me.cmd_rechner.TabIndex = 5
         Me.cmd_rechner.Text = "Rechner"
         Me.cmd_rechner.UseVisualStyleBackColor = True
         '
         'cmd_Mensch
         '
-        Me.cmd_Mensch.Location = New System.Drawing.Point(340, 264)
+        Me.cmd_Mensch.Location = New System.Drawing.Point(318, 264)
         Me.cmd_Mensch.Name = "cmd_Mensch"
-        Me.cmd_Mensch.Size = New System.Drawing.Size(75, 23)
+        Me.cmd_Mensch.Size = New System.Drawing.Size(97, 23)
         Me.cmd_Mensch.TabIndex = 6
         Me.cmd_Mensch.Text = "Mensch"
         Me.cmd_Mensch.UseVisualStyleBackColor = True
@@ -106,11 +107,21 @@ Partial Class Programm_Sammlung
         Me.PictureBox1.TabIndex = 7
         Me.PictureBox1.TabStop = False
         '
+        'cmd_ÖhmischerRechner
+        '
+        Me.cmd_ÖhmischerRechner.Location = New System.Drawing.Point(117, 342)
+        Me.cmd_ÖhmischerRechner.Name = "cmd_ÖhmischerRechner"
+        Me.cmd_ÖhmischerRechner.Size = New System.Drawing.Size(99, 23)
+        Me.cmd_ÖhmischerRechner.TabIndex = 8
+        Me.cmd_ÖhmischerRechner.Text = "Ohm Rechner"
+        Me.cmd_ÖhmischerRechner.UseVisualStyleBackColor = True
+        '
         'Programm_Sammlung
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(430, 406)
+        Me.Controls.Add(Me.cmd_ÖhmischerRechner)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.cmd_Mensch)
         Me.Controls.Add(Me.cmd_rechner)
@@ -134,4 +145,5 @@ Partial Class Programm_Sammlung
     Friend WithEvents cmd_rechner As Button
     Friend WithEvents cmd_Mensch As Button
     Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
+    Friend WithEvents cmd_ÖhmischerRechner As System.Windows.Forms.Button
 End Class

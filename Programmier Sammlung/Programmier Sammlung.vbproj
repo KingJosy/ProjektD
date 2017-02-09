@@ -143,6 +143,12 @@
     <Compile Include="Zinsrechner.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Öhmischer Rechner.Designer.vb">
+      <DependentUpon>Öhmischer Rechner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Öhmischer Rechner.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="BMI Rechner.resx">
@@ -171,6 +177,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Zinsrechner.resx">
       <DependentUpon>Zinsrechner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Öhmischer Rechner.resx">
+      <DependentUpon>Öhmischer Rechner.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

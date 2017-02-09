@@ -1,4 +1,9 @@
 ﻿Public Class Programm_Sammlung
+
+    Private Sub Programm_Sammlung_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
     Private Sub cmd_End_Click(sender As Object, e As EventArgs) Handles cmd_End.Click
         End
     End Sub
@@ -31,5 +36,10 @@
     Private Sub cmd_Mensch_Click(sender As Object, e As EventArgs) Handles cmd_Mensch.Click
         Me.Hide()
         Mensch_ärgere_dich_nicht.Show()
+    End Sub
+
+    Private Sub cmd_ÖhmischerRechner_Click(sender As Object, e As EventArgs) Handles cmd_ÖhmischerRechner.Click
+        Me.Hide()
+        ÖhmischerRechner.Show()
     End Sub
 End Class
