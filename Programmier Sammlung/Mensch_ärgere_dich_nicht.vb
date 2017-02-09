@@ -1,4 +1,6 @@
 ﻿Public Class Mensch_ärgere_dich_nicht
+    Dim LäuferRot1 As Integer
+    Dim Würfelanzahl As Integer
 
     Private Sub cmd_back_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmd_back.Click
         Programm_Sammlung.Show()
@@ -111,6 +113,74 @@
 
 
 
+        'Anzahl der Läufe der einzelnen Spielfiguren
 
+
+
+        Würfelanzahl = lbl_würfel.Text
+
+        If rb_rot1.Checked = True Then
+
+            LäuferRot1 = LäuferRot1 + Würfelanzahl
+
+        End If
+
+
+        If LäuferRot1 = 1 Then
+            pb_rot1.Location = F40
+        ElseIf LäuferRot1 = 2 Then
+            pb_rot1.Location = F1
+        ElseIf LäuferRot1 = 3 Then
+            pb_rot1.Location = F2
+        ElseIf LäuferRot1 = 4 Then
+            pb_rot1.Location = F3
+        ElseIf LäuferRot1 = 5 Then
+            pb_rot1.Location = F4
+        ElseIf LäuferRot1 = 6 Then
+            pb_rot1.Location = F5
+        ElseIf LäuferRot1 = 7 Then
+            pb_rot1.Location = F6
+        ElseIf LäuferRot1 = 8 Then
+            pb_rot1.Location = F7
+        ElseIf LäuferRot1 = 9 Then
+            pb_rot1.Location = F8
+        ElseIf LäuferRot1 = 10 Then
+            pb_rot1.Location = F9
+        ElseIf LäuferRot1 = 11 Then
+            pb_rot1.Location = F10
+        ElseIf LäuferRot1 = 12 Then
+            pb_rot1.Location = F11
+        ElseIf LäuferRot1 = 13 Then
+            pb_rot1.Location = F12
+        ElseIf LäuferRot1 = 14 Then
+            pb_rot1.Location = F13
+        ElseIf LäuferRot1 = 15 Then
+            pb_rot1.Location = F14
+        ElseIf LäuferRot1 = 16 Then
+            pb_rot1.Location = F15
+        ElseIf LäuferRot1 = 17 Then
+            pb_rot1.Location = F16
+        ElseIf LäuferRot1 = 18 Then
+            pb_rot1.Location = F17
+        ElseIf LäuferRot1 = 19 Then
+            pb_rot1.Location = F18
+        ElseIf LäuferRot1 = 20 Then
+            pb_rot1.Location = F19
+        ElseIf LäuferRot1 = 21 Then
+            pb_rot1.Location = F20
+
+
+            'und so weiter
+            Return
+        End If
+
+
+
+
+    End Sub
+
+    Private Sub cmd_würfel_Click(sender As Object, e As EventArgs) Handles cmd_würfel.Click
+        Dim rng As New Random()
+        lbl_würfel.Text = rng.Next(7).ToString()
     End Sub
 End Class
