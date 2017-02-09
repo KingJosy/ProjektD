@@ -44,6 +44,7 @@ Partial Class Rechner
         Me.Komma = New System.Windows.Forms.Button()
         Me.txt_Eingabe = New System.Windows.Forms.RichTextBox()
         Me.rtb_Eingabe2 = New System.Windows.Forms.RichTextBox()
+        Me.cmd_PlusMinus = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
@@ -207,6 +208,7 @@ Partial Class Rechner
         '
         'cmd_Delete
         '
+        Me.cmd_Delete.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.cmd_Delete.Location = New System.Drawing.Point(187, 384)
         Me.cmd_Delete.Name = "cmd_Delete"
         Me.cmd_Delete.Size = New System.Drawing.Size(75, 23)
@@ -226,7 +228,7 @@ Partial Class Rechner
         'lbl_Ergebnis
         '
         Me.lbl_Ergebnis.AutoSize = True
-        Me.lbl_Ergebnis.Location = New System.Drawing.Point(325, 146)
+        Me.lbl_Ergebnis.Location = New System.Drawing.Point(315, 117)
         Me.lbl_Ergebnis.Name = "lbl_Ergebnis"
         Me.lbl_Ergebnis.Size = New System.Drawing.Size(39, 13)
         Me.lbl_Ergebnis.TabIndex = 19
@@ -252,17 +254,28 @@ Partial Class Rechner
         '
         'rtb_Eingabe2
         '
-        Me.rtb_Eingabe2.Location = New System.Drawing.Point(187, 146)
+        Me.rtb_Eingabe2.Location = New System.Drawing.Point(12, 12)
         Me.rtb_Eingabe2.Name = "rtb_Eingabe2"
         Me.rtb_Eingabe2.Size = New System.Drawing.Size(96, 26)
         Me.rtb_Eingabe2.TabIndex = 22
         Me.rtb_Eingabe2.Text = ""
+        '
+        'cmd_PlusMinus
+        '
+        Me.cmd_PlusMinus.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmd_PlusMinus.Location = New System.Drawing.Point(187, 327)
+        Me.cmd_PlusMinus.Name = "cmd_PlusMinus"
+        Me.cmd_PlusMinus.Size = New System.Drawing.Size(33, 30)
+        Me.cmd_PlusMinus.TabIndex = 23
+        Me.cmd_PlusMinus.Text = "+/-"
+        Me.cmd_PlusMinus.UseVisualStyleBackColor = True
         '
         'Rechner
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(421, 461)
+        Me.Controls.Add(Me.cmd_PlusMinus)
         Me.Controls.Add(Me.rtb_Eingabe2)
         Me.Controls.Add(Me.txt_Eingabe)
         Me.Controls.Add(Me.Komma)
@@ -313,4 +326,5 @@ Partial Class Rechner
     Friend WithEvents Komma As System.Windows.Forms.Button
     Friend WithEvents txt_Eingabe As System.Windows.Forms.RichTextBox
     Friend WithEvents rtb_Eingabe2 As System.Windows.Forms.RichTextBox
+    Friend WithEvents cmd_PlusMinus As System.Windows.Forms.Button
 End Class

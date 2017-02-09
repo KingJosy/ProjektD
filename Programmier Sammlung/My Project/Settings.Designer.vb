@@ -53,6 +53,30 @@ Namespace My
                 Return defaultInstance
             End Get
         End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("")>  _
+        Public Property Rechenzeichen() As String
+            Get
+                Return CType(Me("Rechenzeichen"),String)
+            End Get
+            Set
+                Me("Rechenzeichen") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("")>  _
+        Public Property Zahl() As String
+            Get
+                Return CType(Me("Zahl"),String)
+            End Get
+            Set
+                Me("Zahl") = value
+            End Set
+        End Property
     End Class
 End Namespace
 

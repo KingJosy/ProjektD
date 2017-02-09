@@ -22,6 +22,7 @@ Partial Class Programm_Sammlung
     'Das Bearbeiten mit dem Code-Editor ist nicht möglich.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Programm_Sammlung))
         Me.cmd_End = New System.Windows.Forms.Button()
         Me.cmd_sonne_mond = New System.Windows.Forms.Button()
         Me.cmd_BMI = New System.Windows.Forms.Button()
@@ -29,11 +30,13 @@ Partial Class Programm_Sammlung
         Me.cmd_zinsrechner = New System.Windows.Forms.Button()
         Me.cmd_rechner = New System.Windows.Forms.Button()
         Me.cmd_Mensch = New System.Windows.Forms.Button()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'cmd_End
         '
-        Me.cmd_End.Location = New System.Drawing.Point(293, 337)
+        Me.cmd_End.Location = New System.Drawing.Point(340, 371)
         Me.cmd_End.Name = "cmd_End"
         Me.cmd_End.Size = New System.Drawing.Size(75, 23)
         Me.cmd_End.TabIndex = 0
@@ -42,7 +45,7 @@ Partial Class Programm_Sammlung
         '
         'cmd_sonne_mond
         '
-        Me.cmd_sonne_mond.Location = New System.Drawing.Point(12, 147)
+        Me.cmd_sonne_mond.Location = New System.Drawing.Point(14, 235)
         Me.cmd_sonne_mond.Name = "cmd_sonne_mond"
         Me.cmd_sonne_mond.Size = New System.Drawing.Size(75, 23)
         Me.cmd_sonne_mond.TabIndex = 1
@@ -51,7 +54,7 @@ Partial Class Programm_Sammlung
         '
         'cmd_BMI
         '
-        Me.cmd_BMI.Location = New System.Drawing.Point(149, 147)
+        Me.cmd_BMI.Location = New System.Drawing.Point(93, 371)
         Me.cmd_BMI.Name = "cmd_BMI"
         Me.cmd_BMI.Size = New System.Drawing.Size(75, 23)
         Me.cmd_BMI.TabIndex = 2
@@ -60,7 +63,7 @@ Partial Class Programm_Sammlung
         '
         'cmd_Zahlenraten
         '
-        Me.cmd_Zahlenraten.Location = New System.Drawing.Point(273, 147)
+        Me.cmd_Zahlenraten.Location = New System.Drawing.Point(340, 235)
         Me.cmd_Zahlenraten.Name = "cmd_Zahlenraten"
         Me.cmd_Zahlenraten.Size = New System.Drawing.Size(75, 23)
         Me.cmd_Zahlenraten.TabIndex = 3
@@ -69,7 +72,7 @@ Partial Class Programm_Sammlung
         '
         'cmd_zinsrechner
         '
-        Me.cmd_zinsrechner.Location = New System.Drawing.Point(12, 187)
+        Me.cmd_zinsrechner.Location = New System.Drawing.Point(12, 371)
         Me.cmd_zinsrechner.Name = "cmd_zinsrechner"
         Me.cmd_zinsrechner.Size = New System.Drawing.Size(75, 23)
         Me.cmd_zinsrechner.TabIndex = 4
@@ -78,7 +81,7 @@ Partial Class Programm_Sammlung
         '
         'cmd_rechner
         '
-        Me.cmd_rechner.Location = New System.Drawing.Point(149, 187)
+        Me.cmd_rechner.Location = New System.Drawing.Point(14, 342)
         Me.cmd_rechner.Name = "cmd_rechner"
         Me.cmd_rechner.Size = New System.Drawing.Size(75, 23)
         Me.cmd_rechner.TabIndex = 5
@@ -87,18 +90,28 @@ Partial Class Programm_Sammlung
         '
         'cmd_Mensch
         '
-        Me.cmd_Mensch.Location = New System.Drawing.Point(273, 187)
+        Me.cmd_Mensch.Location = New System.Drawing.Point(340, 264)
         Me.cmd_Mensch.Name = "cmd_Mensch"
         Me.cmd_Mensch.Size = New System.Drawing.Size(75, 23)
         Me.cmd_Mensch.TabIndex = 6
         Me.cmd_Mensch.Text = "Mensch"
         Me.cmd_Mensch.UseVisualStyleBackColor = True
         '
+        'PictureBox1
+        '
+        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
+        Me.PictureBox1.Location = New System.Drawing.Point(12, 12)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(403, 201)
+        Me.PictureBox1.TabIndex = 7
+        Me.PictureBox1.TabStop = False
+        '
         'Programm_Sammlung
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(411, 395)
+        Me.ClientSize = New System.Drawing.Size(430, 406)
+        Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.cmd_Mensch)
         Me.Controls.Add(Me.cmd_rechner)
         Me.Controls.Add(Me.cmd_zinsrechner)
@@ -108,6 +121,7 @@ Partial Class Programm_Sammlung
         Me.Controls.Add(Me.cmd_End)
         Me.Name = "Programm_Sammlung"
         Me.Text = "Programm_Sammlung"
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -119,4 +133,5 @@ Partial Class Programm_Sammlung
     Friend WithEvents cmd_zinsrechner As Button
     Friend WithEvents cmd_rechner As Button
     Friend WithEvents cmd_Mensch As Button
+    Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
 End Class
