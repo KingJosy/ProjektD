@@ -1,5 +1,6 @@
 ﻿Public Class Mensch_ärgere_dich_nicht
     Dim LäuferRot1 As Integer
+    Dim LäuferRot2 As Integer
     Dim Würfelanzahl As Integer
 
     Private Sub cmd_back_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmd_back.Click
@@ -123,7 +124,13 @@
 
             LäuferRot1 = LäuferRot1 + Würfelanzahl
 
+        ElseIf rb_rot2.Checked = True Then
+
+            LäuferRot2 = LäuferRot2 + Würfelanzahl
+
         End If
+
+
 
 
         If LäuferRot1 = 1 Then
@@ -168,12 +175,133 @@
             pb_rot1.Location = F19
         ElseIf LäuferRot1 = 21 Then
             pb_rot1.Location = F20
-
-
-            'und so weiter
+        ElseIf LäuferRot1 = 22 Then
+            pb_rot1.Location = F21
+        ElseIf LäuferRot1 = 23 Then
+            pb_rot1.Location = F22
+        ElseIf LäuferRot1 = 24 Then
+            pb_rot1.Location = F23
+        ElseIf LäuferRot1 = 25 Then
+            pb_rot1.Location = F24
+        ElseIf LäuferRot1 = 26 Then
+            pb_rot1.Location = F25
+        ElseIf LäuferRot1 = 27 Then
+            pb_rot1.Location = F26
+        ElseIf LäuferRot1 = 28 Then
+            pb_rot1.Location = F27
+        ElseIf LäuferRot1 = 29 Then
+            pb_rot1.Location = F28
+        ElseIf LäuferRot1 = 30 Then
+            pb_rot1.Location = F29
+        ElseIf LäuferRot1 = 31 Then
+            pb_rot1.Location = F30
+        ElseIf LäuferRot1 = 32 Then
+            pb_rot1.Location = F31
+        ElseIf LäuferRot1 = 33 Then
+            pb_rot1.Location = F32
+        ElseIf LäuferRot1 = 34 Then
+            pb_rot1.Location = F33
+        ElseIf LäuferRot1 = 35 Then
+            pb_rot1.Location = F34
+        ElseIf LäuferRot1 = 36 Then
+            pb_rot1.Location = F35
+        ElseIf LäuferRot1 = 37 Then
+            pb_rot1.Location = F36
+        ElseIf LäuferRot1 = 38 Then
+            pb_rot1.Location = F37
+        ElseIf LäuferRot1 = 39 Then
+            pb_rot1.Location = F38
+        ElseIf LäuferRot1 = 40 Then
+            pb_rot1.Location = F39
+            'Jetzt kommt die Base
             Return
         End If
 
+
+
+        If LäuferRot2 = 1 Then
+            pb_rot2.Location = F40
+        ElseIf LäuferRot2 = 2 Then
+            pb_rot2.Location = F1
+        ElseIf LäuferRot2 = 3 Then
+            pb_rot2.Location = F2
+        ElseIf LäuferRot2 = 4 Then
+            pb_rot2.Location = F3
+        ElseIf LäuferRot2 = 5 Then
+            pb_rot2.Location = F4
+        ElseIf LäuferRot2 = 6 Then
+            pb_rot2.Location = F5
+        ElseIf LäuferRot2 = 7 Then
+            pb_rot2.Location = F6
+        ElseIf LäuferRot2 = 8 Then
+            pb_rot2.Location = F7
+        ElseIf LäuferRot2 = 9 Then
+            pb_rot2.Location = F8
+        ElseIf LäuferRot2 = 10 Then
+            pb_rot2.Location = F9
+        ElseIf LäuferRot2 = 11 Then
+            pb_rot2.Location = F10
+        ElseIf LäuferRot2 = 12 Then
+            pb_rot2.Location = F11
+        ElseIf LäuferRot2 = 13 Then
+            pb_rot2.Location = F12
+        ElseIf LäuferRot2 = 14 Then
+            pb_rot2.Location = F13
+        ElseIf LäuferRot2 = 15 Then
+            pb_rot2.Location = F14
+        ElseIf LäuferRot2 = 16 Then
+            pb_rot2.Location = F15
+        ElseIf LäuferRot2 = 17 Then
+            pb_rot2.Location = F16
+        ElseIf LäuferRot2 = 18 Then
+            pb_rot2.Location = F17
+        ElseIf LäuferRot2 = 19 Then
+            pb_rot2.Location = F18
+        ElseIf LäuferRot2 = 20 Then
+            pb_rot2.Location = F19
+        ElseIf LäuferRot2 = 21 Then
+            pb_rot2.Location = F20
+        ElseIf LäuferRot2 = 22 Then
+            pb_rot2.Location = F21
+        ElseIf LäuferRot2 = 23 Then
+            pb_rot2.Location = F22
+        ElseIf LäuferRot2 = 24 Then
+            pb_rot2.Location = F23
+        ElseIf LäuferRot2 = 25 Then
+            pb_rot2.Location = F24
+        ElseIf LäuferRot2 = 26 Then
+            pb_rot2.Location = F25
+        ElseIf LäuferRot2 = 27 Then
+            pb_rot2.Location = F26
+        ElseIf LäuferRot2 = 28 Then
+            pb_rot2.Location = F27
+        ElseIf LäuferRot2 = 29 Then
+            pb_rot2.Location = F28
+        ElseIf LäuferRot2 = 30 Then
+            pb_rot2.Location = F29
+        ElseIf LäuferRot2 = 31 Then
+            pb_rot2.Location = F30
+        ElseIf LäuferRot2 = 32 Then
+            pb_rot2.Location = F31
+        ElseIf LäuferRot2 = 33 Then
+            pb_rot2.Location = F32
+        ElseIf LäuferRot2 = 34 Then
+            pb_rot2.Location = F33
+        ElseIf LäuferRot2 = 35 Then
+            pb_rot2.Location = F34
+        ElseIf LäuferRot2 = 36 Then
+            pb_rot2.Location = F35
+        ElseIf LäuferRot2 = 37 Then
+            pb_rot2.Location = F36
+        ElseIf LäuferRot2 = 38 Then
+            pb_rot2.Location = F37
+        ElseIf LäuferRot2 = 39 Then
+            pb_rot2.Location = F38
+        ElseIf LäuferRot2 = 40 Then
+            pb_rot2.Location = F39
+            'Jetzt kommt die Base
+            Return
+        End If
 
 
 
@@ -181,6 +309,6 @@
 
     Private Sub cmd_würfel_Click(sender As Object, e As EventArgs) Handles cmd_würfel.Click
         Dim rng As New Random()
-        lbl_würfel.Text = rng.Next(7).ToString()
+        lbl_würfel.Text = rng.Next(1, 7).ToString()
     End Sub
 End Class
