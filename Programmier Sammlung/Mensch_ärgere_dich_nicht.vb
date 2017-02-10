@@ -1806,6 +1806,2944 @@
             Return
         End If
 
+        'Rauswerfen der Spielfiguren
+
+        If pb_rot1.Location = F1 And pb_blau1.Location = F1 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F2 And pb_blau1.Location = F2 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F3 And pb_blau1.Location = F3 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F4 And pb_blau1.Location = F4 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F5 And pb_blau1.Location = F5 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F6 And pb_blau1.Location = F6 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F7 And pb_blau1.Location = F7 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F8 And pb_blau1.Location = F8 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F9 And pb_blau1.Location = F9 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F10 And pb_blau1.Location = F10 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F11 And pb_blau1.Location = F11 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F12 And pb_blau1.Location = F12 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F13 And pb_blau1.Location = F13 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F14 And pb_blau1.Location = F14 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F15 And pb_blau1.Location = F15 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F16 And pb_blau1.Location = F16 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F17 And pb_blau1.Location = F17 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F18 And pb_blau1.Location = F18 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F19 And pb_blau1.Location = F19 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F20 And pb_blau1.Location = F20 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F21 And pb_blau1.Location = F21 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F22 And pb_blau1.Location = F22 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F23 And pb_blau1.Location = F23 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F24 And pb_blau1.Location = F24 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F25 And pb_blau1.Location = F25 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F26 And pb_blau1.Location = F26 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F27 And pb_blau1.Location = F27 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F28 And pb_blau1.Location = F28 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F29 And pb_blau1.Location = F29 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F30 And pb_blau1.Location = F30 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F31 And pb_blau1.Location = F31 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F32 And pb_blau1.Location = F32 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F33 And pb_blau1.Location = F33 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F34 And pb_blau1.Location = F34 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F35 And pb_blau1.Location = F35 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F36 And pb_blau1.Location = F36 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F37 And pb_blau1.Location = F37 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F38 And pb_blau1.Location = F38 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F39 And pb_blau1.Location = F39 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot1.Location = F40 And pb_blau1.Location = F40 And rb_rot1.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        End If
+
+        If pb_rot1.Location = F1 And pb_blau2.Location = F1 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F2 And pb_blau2.Location = F2 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F3 And pb_blau2.Location = F3 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F4 And pb_blau2.Location = F4 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F5 And pb_blau2.Location = F5 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F6 And pb_blau2.Location = F6 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F7 And pb_blau2.Location = F7 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F8 And pb_blau2.Location = F8 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F9 And pb_blau2.Location = F9 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F10 And pb_blau2.Location = F10 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F11 And pb_blau2.Location = F11 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F12 And pb_blau2.Location = F12 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F13 And pb_blau2.Location = F13 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F14 And pb_blau2.Location = F14 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F15 And pb_blau2.Location = F15 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F16 And pb_blau2.Location = F16 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F17 And pb_blau2.Location = F17 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F18 And pb_blau2.Location = F18 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F19 And pb_blau2.Location = F19 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F20 And pb_blau2.Location = F20 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F21 And pb_blau2.Location = F21 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F22 And pb_blau2.Location = F22 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F23 And pb_blau2.Location = F23 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F24 And pb_blau2.Location = F24 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F25 And pb_blau2.Location = F25 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F26 And pb_blau2.Location = F26 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F27 And pb_blau2.Location = F27 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F28 And pb_blau2.Location = F28 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F29 And pb_blau2.Location = F29 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F30 And pb_blau2.Location = F30 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F31 And pb_blau2.Location = F31 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F32 And pb_blau2.Location = F32 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F33 And pb_blau2.Location = F33 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F34 And pb_blau2.Location = F34 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F35 And pb_blau2.Location = F35 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F36 And pb_blau2.Location = F36 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F37 And pb_blau2.Location = F37 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F38 And pb_blau2.Location = F38 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F39 And pb_blau2.Location = F39 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot1.Location = F40 And pb_blau2.Location = F40 And rb_rot1.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        End If
+
+        If pb_rot1.Location = F1 And pb_blau3.Location = F1 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F2 And pb_blau3.Location = F2 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F3 And pb_blau3.Location = F3 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F4 And pb_blau3.Location = F4 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F5 And pb_blau3.Location = F5 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F6 And pb_blau3.Location = F6 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F7 And pb_blau3.Location = F7 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F8 And pb_blau3.Location = F8 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F9 And pb_blau3.Location = F9 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F10 And pb_blau3.Location = F10 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F11 And pb_blau3.Location = F11 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F12 And pb_blau3.Location = F12 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F13 And pb_blau3.Location = F13 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F14 And pb_blau3.Location = F14 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F15 And pb_blau3.Location = F15 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F16 And pb_blau3.Location = F16 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F17 And pb_blau3.Location = F17 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F18 And pb_blau3.Location = F18 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F19 And pb_blau3.Location = F19 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F20 And pb_blau3.Location = F20 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F21 And pb_blau3.Location = F21 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F22 And pb_blau3.Location = F22 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F23 And pb_blau3.Location = F23 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F24 And pb_blau3.Location = F24 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F25 And pb_blau3.Location = F25 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F26 And pb_blau3.Location = F26 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F27 And pb_blau3.Location = F27 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F28 And pb_blau3.Location = F28 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F29 And pb_blau3.Location = F29 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F30 And pb_blau3.Location = F30 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F31 And pb_blau3.Location = F31 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F32 And pb_blau3.Location = F32 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F33 And pb_blau3.Location = F33 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F34 And pb_blau3.Location = F34 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F35 And pb_blau3.Location = F35 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F36 And pb_blau3.Location = F36 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F37 And pb_blau3.Location = F37 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F38 And pb_blau3.Location = F38 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F39 And pb_blau3.Location = F39 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot1.Location = F40 And pb_blau3.Location = F40 And rb_rot1.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        End If
+
+        If pb_rot1.Location = F1 And pb_blau4.Location = F1 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F2 And pb_blau4.Location = F2 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F3 And pb_blau4.Location = F3 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F4 And pb_blau4.Location = F4 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F5 And pb_blau4.Location = F5 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F6 And pb_blau4.Location = F6 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F7 And pb_blau4.Location = F7 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F8 And pb_blau4.Location = F8 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F9 And pb_blau4.Location = F9 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F10 And pb_blau4.Location = F10 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F11 And pb_blau4.Location = F11 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F12 And pb_blau4.Location = F12 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F13 And pb_blau4.Location = F13 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F14 And pb_blau4.Location = F14 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F15 And pb_blau4.Location = F15 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F16 And pb_blau4.Location = F16 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F17 And pb_blau4.Location = F17 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F18 And pb_blau4.Location = F18 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F19 And pb_blau4.Location = F19 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F20 And pb_blau4.Location = F20 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F21 And pb_blau4.Location = F21 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F22 And pb_blau4.Location = F22 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F23 And pb_blau4.Location = F23 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F24 And pb_blau4.Location = F24 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F25 And pb_blau4.Location = F25 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F26 And pb_blau4.Location = F26 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F27 And pb_blau4.Location = F27 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F28 And pb_blau4.Location = F28 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F29 And pb_blau4.Location = F29 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F30 And pb_blau4.Location = F30 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F31 And pb_blau4.Location = F31 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F32 And pb_blau4.Location = F32 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F33 And pb_blau4.Location = F33 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F34 And pb_blau4.Location = F34 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F35 And pb_blau4.Location = F35 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F36 And pb_blau4.Location = F36 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F37 And pb_blau4.Location = F37 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F38 And pb_blau4.Location = F38 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F39 And pb_blau4.Location = F39 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot1.Location = F40 And pb_blau4.Location = F40 And rb_rot1.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        End If
+
+        If pb_rot2.Location = F1 And pb_blau1.Location = F1 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F2 And pb_blau1.Location = F2 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F3 And pb_blau1.Location = F3 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F4 And pb_blau1.Location = F4 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F5 And pb_blau1.Location = F5 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F6 And pb_blau1.Location = F6 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F7 And pb_blau1.Location = F7 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F8 And pb_blau1.Location = F8 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F9 And pb_blau1.Location = F9 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F10 And pb_blau1.Location = F10 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F11 And pb_blau1.Location = F11 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F12 And pb_blau1.Location = F12 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F13 And pb_blau1.Location = F13 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F14 And pb_blau1.Location = F14 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F15 And pb_blau1.Location = F15 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F16 And pb_blau1.Location = F16 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F17 And pb_blau1.Location = F17 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F18 And pb_blau1.Location = F18 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F19 And pb_blau1.Location = F19 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F20 And pb_blau1.Location = F20 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F21 And pb_blau1.Location = F21 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F22 And pb_blau1.Location = F22 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F23 And pb_blau1.Location = F23 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F24 And pb_blau1.Location = F24 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F25 And pb_blau1.Location = F25 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F26 And pb_blau1.Location = F26 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F27 And pb_blau1.Location = F27 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F28 And pb_blau1.Location = F28 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F29 And pb_blau1.Location = F29 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F30 And pb_blau1.Location = F30 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F31 And pb_blau1.Location = F31 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F32 And pb_blau1.Location = F32 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F33 And pb_blau1.Location = F33 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F34 And pb_blau1.Location = F34 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F35 And pb_blau1.Location = F35 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F36 And pb_blau1.Location = F36 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F37 And pb_blau1.Location = F37 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F38 And pb_blau1.Location = F38 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F39 And pb_blau1.Location = F39 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot2.Location = F40 And pb_blau1.Location = F40 And rb_rot2.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        End If
+
+        If pb_rot2.Location = F1 And pb_blau2.Location = F1 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F2 And pb_blau2.Location = F2 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F3 And pb_blau2.Location = F3 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F4 And pb_blau2.Location = F4 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F5 And pb_blau2.Location = F5 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F6 And pb_blau2.Location = F6 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F7 And pb_blau2.Location = F7 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F8 And pb_blau2.Location = F8 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F9 And pb_blau2.Location = F9 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F10 And pb_blau2.Location = F10 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F11 And pb_blau2.Location = F11 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F12 And pb_blau2.Location = F12 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F13 And pb_blau2.Location = F13 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F14 And pb_blau2.Location = F14 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F15 And pb_blau2.Location = F15 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F16 And pb_blau2.Location = F16 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F17 And pb_blau2.Location = F17 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F18 And pb_blau2.Location = F18 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F19 And pb_blau2.Location = F19 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F20 And pb_blau2.Location = F20 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F21 And pb_blau2.Location = F21 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F22 And pb_blau2.Location = F22 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F23 And pb_blau2.Location = F23 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F24 And pb_blau2.Location = F24 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F25 And pb_blau2.Location = F25 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F26 And pb_blau2.Location = F26 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F27 And pb_blau2.Location = F27 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F28 And pb_blau2.Location = F28 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F29 And pb_blau2.Location = F29 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F30 And pb_blau2.Location = F30 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F31 And pb_blau2.Location = F31 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F32 And pb_blau2.Location = F32 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F33 And pb_blau2.Location = F33 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F34 And pb_blau2.Location = F34 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F35 And pb_blau2.Location = F35 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F36 And pb_blau2.Location = F36 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F37 And pb_blau2.Location = F37 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F38 And pb_blau2.Location = F38 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F39 And pb_blau2.Location = F39 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot2.Location = F40 And pb_blau2.Location = F40 And rb_rot2.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        End If
+
+        If pb_rot2.Location = F1 And pb_blau3.Location = F1 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F2 And pb_blau3.Location = F2 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F3 And pb_blau3.Location = F3 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F4 And pb_blau3.Location = F4 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F5 And pb_blau3.Location = F5 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F6 And pb_blau3.Location = F6 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F7 And pb_blau3.Location = F7 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F8 And pb_blau3.Location = F8 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F9 And pb_blau3.Location = F9 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F10 And pb_blau3.Location = F10 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F11 And pb_blau3.Location = F11 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F12 And pb_blau3.Location = F12 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F13 And pb_blau3.Location = F13 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F14 And pb_blau3.Location = F14 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F15 And pb_blau3.Location = F15 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F16 And pb_blau3.Location = F16 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F17 And pb_blau3.Location = F17 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F18 And pb_blau3.Location = F18 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F19 And pb_blau3.Location = F19 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F20 And pb_blau3.Location = F20 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F21 And pb_blau3.Location = F21 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F22 And pb_blau3.Location = F22 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F23 And pb_blau3.Location = F23 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F24 And pb_blau3.Location = F24 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F25 And pb_blau3.Location = F25 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F26 And pb_blau3.Location = F26 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F27 And pb_blau3.Location = F27 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F28 And pb_blau3.Location = F28 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F29 And pb_blau3.Location = F29 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F30 And pb_blau3.Location = F30 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F31 And pb_blau3.Location = F31 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F32 And pb_blau3.Location = F32 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F33 And pb_blau3.Location = F33 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F34 And pb_blau3.Location = F34 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F35 And pb_blau3.Location = F35 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F36 And pb_blau3.Location = F36 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F37 And pb_blau3.Location = F37 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F38 And pb_blau3.Location = F38 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F39 And pb_blau3.Location = F39 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot2.Location = F40 And pb_blau3.Location = F40 And rb_rot2.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        End If
+
+        If pb_rot2.Location = F1 And pb_blau4.Location = F1 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F2 And pb_blau4.Location = F2 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F3 And pb_blau4.Location = F3 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F4 And pb_blau4.Location = F4 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F5 And pb_blau4.Location = F5 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F6 And pb_blau4.Location = F6 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F7 And pb_blau4.Location = F7 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F8 And pb_blau4.Location = F8 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F9 And pb_blau4.Location = F9 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F10 And pb_blau4.Location = F10 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F11 And pb_blau4.Location = F11 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F12 And pb_blau4.Location = F12 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F13 And pb_blau4.Location = F13 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F14 And pb_blau4.Location = F14 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F15 And pb_blau4.Location = F15 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F16 And pb_blau4.Location = F16 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F17 And pb_blau4.Location = F17 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F18 And pb_blau4.Location = F18 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F19 And pb_blau4.Location = F19 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F20 And pb_blau4.Location = F20 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F21 And pb_blau4.Location = F21 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F22 And pb_blau4.Location = F22 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F23 And pb_blau4.Location = F23 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F24 And pb_blau4.Location = F24 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F25 And pb_blau4.Location = F25 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F26 And pb_blau4.Location = F26 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F27 And pb_blau4.Location = F27 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F28 And pb_blau4.Location = F28 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F29 And pb_blau4.Location = F29 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F30 And pb_blau4.Location = F30 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F31 And pb_blau4.Location = F31 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F32 And pb_blau4.Location = F32 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F33 And pb_blau4.Location = F33 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F34 And pb_blau4.Location = F34 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F35 And pb_blau4.Location = F35 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F36 And pb_blau4.Location = F36 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F37 And pb_blau4.Location = F37 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F38 And pb_blau4.Location = F38 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F39 And pb_blau4.Location = F39 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot2.Location = F40 And pb_blau4.Location = F40 And rb_rot2.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        End If
+
+        If pb_rot3.Location = F1 And pb_blau1.Location = F1 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F2 And pb_blau1.Location = F2 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F3 And pb_blau1.Location = F3 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F4 And pb_blau1.Location = F4 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F5 And pb_blau1.Location = F5 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F6 And pb_blau1.Location = F6 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F7 And pb_blau1.Location = F7 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F8 And pb_blau1.Location = F8 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F9 And pb_blau1.Location = F9 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F10 And pb_blau1.Location = F10 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F11 And pb_blau1.Location = F11 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F12 And pb_blau1.Location = F12 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F13 And pb_blau1.Location = F13 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F14 And pb_blau1.Location = F14 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F15 And pb_blau1.Location = F15 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F16 And pb_blau1.Location = F16 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F17 And pb_blau1.Location = F17 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F18 And pb_blau1.Location = F18 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F19 And pb_blau1.Location = F19 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F20 And pb_blau1.Location = F20 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F21 And pb_blau1.Location = F21 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F22 And pb_blau1.Location = F22 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F23 And pb_blau1.Location = F23 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F24 And pb_blau1.Location = F24 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F25 And pb_blau1.Location = F25 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F26 And pb_blau1.Location = F26 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F27 And pb_blau1.Location = F27 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F28 And pb_blau1.Location = F28 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F29 And pb_blau1.Location = F29 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F30 And pb_blau1.Location = F30 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F31 And pb_blau1.Location = F31 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F32 And pb_blau1.Location = F32 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F33 And pb_blau1.Location = F33 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F34 And pb_blau1.Location = F34 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F35 And pb_blau1.Location = F35 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F36 And pb_blau1.Location = F36 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F37 And pb_blau1.Location = F37 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F38 And pb_blau1.Location = F38 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F39 And pb_blau1.Location = F39 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot3.Location = F40 And pb_blau1.Location = F40 And rb_rot3.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        End If
+
+        If pb_rot3.Location = F1 And pb_blau2.Location = F1 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F2 And pb_blau2.Location = F2 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F3 And pb_blau2.Location = F3 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F4 And pb_blau2.Location = F4 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F5 And pb_blau2.Location = F5 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F6 And pb_blau2.Location = F6 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F7 And pb_blau2.Location = F7 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F8 And pb_blau2.Location = F8 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F9 And pb_blau2.Location = F9 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F10 And pb_blau2.Location = F10 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F11 And pb_blau2.Location = F11 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F12 And pb_blau2.Location = F12 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F13 And pb_blau2.Location = F13 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F14 And pb_blau2.Location = F14 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F15 And pb_blau2.Location = F15 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F16 And pb_blau2.Location = F16 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F17 And pb_blau2.Location = F17 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F18 And pb_blau2.Location = F18 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F19 And pb_blau2.Location = F19 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F20 And pb_blau2.Location = F20 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F21 And pb_blau2.Location = F21 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F22 And pb_blau2.Location = F22 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F23 And pb_blau2.Location = F23 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F24 And pb_blau2.Location = F24 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F25 And pb_blau2.Location = F25 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F26 And pb_blau2.Location = F26 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F27 And pb_blau2.Location = F27 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F28 And pb_blau2.Location = F28 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F29 And pb_blau2.Location = F29 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F30 And pb_blau2.Location = F30 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F31 And pb_blau2.Location = F31 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F32 And pb_blau2.Location = F32 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F33 And pb_blau2.Location = F33 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F34 And pb_blau2.Location = F34 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F35 And pb_blau2.Location = F35 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F36 And pb_blau2.Location = F36 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F37 And pb_blau2.Location = F37 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F38 And pb_blau2.Location = F38 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F39 And pb_blau2.Location = F39 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot3.Location = F40 And pb_blau2.Location = F40 And rb_rot3.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        End If
+
+        If pb_rot3.Location = F1 And pb_blau3.Location = F1 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F2 And pb_blau3.Location = F2 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F3 And pb_blau3.Location = F3 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F4 And pb_blau3.Location = F4 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F5 And pb_blau3.Location = F5 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F6 And pb_blau3.Location = F6 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F7 And pb_blau3.Location = F7 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F8 And pb_blau3.Location = F8 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F9 And pb_blau3.Location = F9 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F10 And pb_blau3.Location = F10 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F11 And pb_blau3.Location = F11 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F12 And pb_blau3.Location = F12 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F13 And pb_blau3.Location = F13 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F14 And pb_blau3.Location = F14 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F15 And pb_blau3.Location = F15 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F16 And pb_blau3.Location = F16 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F17 And pb_blau3.Location = F17 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F18 And pb_blau3.Location = F18 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F19 And pb_blau3.Location = F19 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F20 And pb_blau3.Location = F20 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F21 And pb_blau3.Location = F21 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F22 And pb_blau3.Location = F22 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F23 And pb_blau3.Location = F23 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F24 And pb_blau3.Location = F24 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F25 And pb_blau3.Location = F25 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F26 And pb_blau3.Location = F26 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F27 And pb_blau3.Location = F27 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F28 And pb_blau3.Location = F28 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F29 And pb_blau3.Location = F29 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F30 And pb_blau3.Location = F30 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F31 And pb_blau3.Location = F31 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F32 And pb_blau3.Location = F32 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F33 And pb_blau3.Location = F33 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F34 And pb_blau3.Location = F34 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F35 And pb_blau3.Location = F35 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F36 And pb_blau3.Location = F36 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F37 And pb_blau3.Location = F37 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F38 And pb_blau3.Location = F38 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F39 And pb_blau3.Location = F39 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot3.Location = F40 And pb_blau3.Location = F40 And rb_rot3.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        End If
+
+        If pb_rot3.Location = F1 And pb_blau4.Location = F1 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F2 And pb_blau4.Location = F2 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F3 And pb_blau4.Location = F3 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F4 And pb_blau4.Location = F4 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F5 And pb_blau4.Location = F5 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F6 And pb_blau4.Location = F6 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F7 And pb_blau4.Location = F7 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F8 And pb_blau4.Location = F8 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F9 And pb_blau4.Location = F9 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F10 And pb_blau4.Location = F10 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F11 And pb_blau4.Location = F11 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F12 And pb_blau4.Location = F12 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F13 And pb_blau4.Location = F13 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F14 And pb_blau4.Location = F14 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F15 And pb_blau4.Location = F15 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F16 And pb_blau4.Location = F16 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F17 And pb_blau4.Location = F17 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F18 And pb_blau4.Location = F18 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F19 And pb_blau4.Location = F19 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F20 And pb_blau4.Location = F20 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F21 And pb_blau4.Location = F21 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F22 And pb_blau4.Location = F22 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F23 And pb_blau4.Location = F23 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F24 And pb_blau4.Location = F24 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F25 And pb_blau4.Location = F25 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F26 And pb_blau4.Location = F26 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F27 And pb_blau4.Location = F27 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F28 And pb_blau4.Location = F28 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F29 And pb_blau4.Location = F29 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F30 And pb_blau4.Location = F30 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F31 And pb_blau4.Location = F31 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F32 And pb_blau4.Location = F32 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F33 And pb_blau4.Location = F33 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F34 And pb_blau4.Location = F34 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F35 And pb_blau4.Location = F35 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F36 And pb_blau4.Location = F36 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F37 And pb_blau4.Location = F37 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F38 And pb_blau4.Location = F38 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F39 And pb_blau4.Location = F39 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot3.Location = F40 And pb_blau4.Location = F40 And rb_rot3.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        End If
+
+        If pb_rot4.Location = F1 And pb_blau1.Location = F1 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F2 And pb_blau1.Location = F2 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F3 And pb_blau1.Location = F3 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F4 And pb_blau1.Location = F4 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F5 And pb_blau1.Location = F5 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F6 And pb_blau1.Location = F6 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F7 And pb_blau1.Location = F7 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F8 And pb_blau1.Location = F8 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F9 And pb_blau1.Location = F9 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F10 And pb_blau1.Location = F10 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F11 And pb_blau1.Location = F11 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F12 And pb_blau1.Location = F12 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F13 And pb_blau1.Location = F13 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F14 And pb_blau1.Location = F14 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F15 And pb_blau1.Location = F15 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F16 And pb_blau1.Location = F16 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F17 And pb_blau1.Location = F17 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F18 And pb_blau1.Location = F18 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F19 And pb_blau1.Location = F19 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F20 And pb_blau1.Location = F20 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F21 And pb_blau1.Location = F21 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F22 And pb_blau1.Location = F22 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F23 And pb_blau1.Location = F23 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F24 And pb_blau1.Location = F24 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F25 And pb_blau1.Location = F25 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F26 And pb_blau1.Location = F26 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F27 And pb_blau1.Location = F27 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F28 And pb_blau1.Location = F28 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F29 And pb_blau1.Location = F29 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F30 And pb_blau1.Location = F30 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F31 And pb_blau1.Location = F31 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F32 And pb_blau1.Location = F32 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F33 And pb_blau1.Location = F33 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F34 And pb_blau1.Location = F34 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F35 And pb_blau1.Location = F35 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F36 And pb_blau1.Location = F36 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F37 And pb_blau1.Location = F37 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F38 And pb_blau1.Location = F38 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F39 And pb_blau1.Location = F39 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        ElseIf pb_rot4.Location = F40 And pb_blau1.Location = F40 And rb_rot4.Checked = True Then
+            pb_blau1.Location = BB1
+            LäuferBlau1 = 0
+        End If
+
+        If pb_rot4.Location = F1 And pb_blau2.Location = F1 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F2 And pb_blau2.Location = F2 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F3 And pb_blau2.Location = F3 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F4 And pb_blau2.Location = F4 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F5 And pb_blau2.Location = F5 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F6 And pb_blau2.Location = F6 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F7 And pb_blau2.Location = F7 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F8 And pb_blau2.Location = F8 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F9 And pb_blau2.Location = F9 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F10 And pb_blau2.Location = F10 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F11 And pb_blau2.Location = F11 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F12 And pb_blau2.Location = F12 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F13 And pb_blau2.Location = F13 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F14 And pb_blau2.Location = F14 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F15 And pb_blau2.Location = F15 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F16 And pb_blau2.Location = F16 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F17 And pb_blau2.Location = F17 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F18 And pb_blau2.Location = F18 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F19 And pb_blau2.Location = F19 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F20 And pb_blau2.Location = F20 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F21 And pb_blau2.Location = F21 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F22 And pb_blau2.Location = F22 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F23 And pb_blau2.Location = F23 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F24 And pb_blau2.Location = F24 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F25 And pb_blau2.Location = F25 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F26 And pb_blau2.Location = F26 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F27 And pb_blau2.Location = F27 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F28 And pb_blau2.Location = F28 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F29 And pb_blau2.Location = F29 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F30 And pb_blau2.Location = F30 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F31 And pb_blau2.Location = F31 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F32 And pb_blau2.Location = F32 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F33 And pb_blau2.Location = F33 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F34 And pb_blau2.Location = F34 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F35 And pb_blau2.Location = F35 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F36 And pb_blau2.Location = F36 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F37 And pb_blau2.Location = F37 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F38 And pb_blau2.Location = F38 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F39 And pb_blau2.Location = F39 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        ElseIf pb_rot4.Location = F40 And pb_blau2.Location = F40 And rb_rot4.Checked = True Then
+            pb_blau2.Location = BB1
+            LäuferBlau2 = 0
+        End If
+
+        If pb_rot4.Location = F1 And pb_blau3.Location = F1 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F2 And pb_blau3.Location = F2 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F3 And pb_blau3.Location = F3 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F4 And pb_blau3.Location = F4 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F5 And pb_blau3.Location = F5 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F6 And pb_blau3.Location = F6 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F7 And pb_blau3.Location = F7 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F8 And pb_blau3.Location = F8 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F9 And pb_blau3.Location = F9 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F10 And pb_blau3.Location = F10 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F11 And pb_blau3.Location = F11 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F12 And pb_blau3.Location = F12 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F13 And pb_blau3.Location = F13 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F14 And pb_blau3.Location = F14 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F15 And pb_blau3.Location = F15 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F16 And pb_blau3.Location = F16 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F17 And pb_blau3.Location = F17 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F18 And pb_blau3.Location = F18 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F19 And pb_blau3.Location = F19 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F20 And pb_blau3.Location = F20 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F21 And pb_blau3.Location = F21 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F22 And pb_blau3.Location = F22 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F23 And pb_blau3.Location = F23 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F24 And pb_blau3.Location = F24 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F25 And pb_blau3.Location = F25 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F26 And pb_blau3.Location = F26 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F27 And pb_blau3.Location = F27 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F28 And pb_blau3.Location = F28 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F29 And pb_blau3.Location = F29 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F30 And pb_blau3.Location = F30 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F31 And pb_blau3.Location = F31 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F32 And pb_blau3.Location = F32 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F33 And pb_blau3.Location = F33 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F34 And pb_blau3.Location = F34 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F35 And pb_blau3.Location = F35 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F36 And pb_blau3.Location = F36 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F37 And pb_blau3.Location = F37 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F38 And pb_blau3.Location = F38 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F39 And pb_blau3.Location = F39 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        ElseIf pb_rot4.Location = F40 And pb_blau3.Location = F40 And rb_rot4.Checked = True Then
+            pb_blau3.Location = BB1
+            LäuferBlau3 = 0
+        End If
+
+        If pb_rot4.Location = F1 And pb_blau4.Location = F1 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F2 And pb_blau4.Location = F2 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F3 And pb_blau4.Location = F3 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F4 And pb_blau4.Location = F4 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F5 And pb_blau4.Location = F5 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F6 And pb_blau4.Location = F6 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F7 And pb_blau4.Location = F7 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F8 And pb_blau4.Location = F8 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F9 And pb_blau4.Location = F9 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F10 And pb_blau4.Location = F10 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F11 And pb_blau4.Location = F11 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F12 And pb_blau4.Location = F12 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F13 And pb_blau4.Location = F13 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F14 And pb_blau4.Location = F14 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F15 And pb_blau4.Location = F15 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F16 And pb_blau4.Location = F16 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F17 And pb_blau4.Location = F17 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F18 And pb_blau4.Location = F18 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F19 And pb_blau4.Location = F19 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F20 And pb_blau4.Location = F20 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F21 And pb_blau4.Location = F21 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F22 And pb_blau4.Location = F22 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F23 And pb_blau4.Location = F23 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F24 And pb_blau4.Location = F24 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F25 And pb_blau4.Location = F25 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F26 And pb_blau4.Location = F26 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F27 And pb_blau4.Location = F27 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F28 And pb_blau4.Location = F28 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F29 And pb_blau4.Location = F29 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F30 And pb_blau4.Location = F30 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F31 And pb_blau4.Location = F31 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F32 And pb_blau4.Location = F32 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F33 And pb_blau4.Location = F33 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F34 And pb_blau4.Location = F34 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F35 And pb_blau4.Location = F35 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F36 And pb_blau4.Location = F36 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F37 And pb_blau4.Location = F37 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F38 And pb_blau4.Location = F38 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F39 And pb_blau4.Location = F39 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        ElseIf pb_rot4.Location = F40 And pb_blau4.Location = F40 And rb_rot4.Checked = True Then
+            pb_blau4.Location = BB1
+            LäuferBlau4 = 0
+        End If
+
+        'Bis hierhinn alles gemacht
+
+        If pb_blau1.Location = F1 And pb_rot1.Location = F1 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F2 And pb_rot1.Location = F2 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F3 And pb_rot1.Location = F3 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F4 And pb_rot1.Location = F4 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F5 And pb_rot1.Location = F5 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F6 And pb_rot1.Location = F6 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F7 And pb_rot1.Location = F7 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F8 And pb_rot1.Location = F8 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F9 And pb_rot1.Location = F9 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F10 And pb_rot1.Location = F10 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F11 And pb_rot1.Location = F11 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F12 And pb_rot1.Location = F12 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F13 And pb_rot1.Location = F13 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F14 And pb_rot1.Location = F14 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F15 And pb_rot1.Location = F15 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F16 And pb_rot1.Location = F16 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F17 And pb_rot1.Location = F17 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F18 And pb_rot1.Location = F18 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F19 And pb_rot1.Location = F19 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F20 And pb_rot1.Location = F20 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F21 And pb_rot1.Location = F21 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F22 And pb_rot1.Location = F22 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F23 And pb_rot1.Location = F23 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F24 And pb_rot1.Location = F24 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F25 And pb_rot1.Location = F25 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F26 And pb_rot1.Location = F26 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F27 And pb_rot1.Location = F27 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F28 And pb_rot1.Location = F28 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F29 And pb_rot1.Location = F29 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F30 And pb_rot1.Location = F30 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F31 And pb_rot1.Location = F31 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F32 And pb_rot1.Location = F32 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F33 And pb_rot1.Location = F33 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F34 And pb_rot1.Location = F34 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F35 And pb_rot1.Location = F35 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F36 And pb_rot1.Location = F36 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F37 And pb_rot1.Location = F37 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F38 And pb_rot1.Location = F38 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F39 And pb_rot1.Location = F39 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F40 And pb_rot1.Location = F40 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        End If
+
+        If pb_blau1.Location = F1 And pb_rot2.Location = F1 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F2 And pb_rot2.Location = F2 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F3 And pb_rot2.Location = F3 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F4 And pb_rot2.Location = F4 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F5 And pb_rot2.Location = F5 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F6 And pb_rot2.Location = F6 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F7 And pb_rot2.Location = F7 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F8 And pb_rot2.Location = F8 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F9 And pb_rot2.Location = F9 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F10 And pb_rot2.Location = F10 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F11 And pb_rot2.Location = F11 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F12 And pb_rot2.Location = F12 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F13 And pb_rot2.Location = F13 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F14 And pb_rot2.Location = F14 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F15 And pb_rot2.Location = F15 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F16 And pb_rot2.Location = F16 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F17 And pb_rot2.Location = F17 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F18 And pb_rot2.Location = F18 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F19 And pb_rot2.Location = F19 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F20 And pb_rot2.Location = F20 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F21 And pb_rot2.Location = F21 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F22 And pb_rot2.Location = F22 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F23 And pb_rot2.Location = F23 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F24 And pb_rot2.Location = F24 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F25 And pb_rot2.Location = F25 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F26 And pb_rot2.Location = F26 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F27 And pb_rot2.Location = F27 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F28 And pb_rot2.Location = F28 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F29 And pb_rot2.Location = F29 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F30 And pb_rot2.Location = F30 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F31 And pb_rot2.Location = F31 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F32 And pb_rot2.Location = F32 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F33 And pb_rot2.Location = F33 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F34 And pb_rot2.Location = F34 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F35 And pb_rot2.Location = F35 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F36 And pb_rot2.Location = F36 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F37 And pb_rot2.Location = F37 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F38 And pb_rot2.Location = F38 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F39 And pb_rot2.Location = F39 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F40 And pb_rot2.Location = F40 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        End If
+
+        If pb_blau1.Location = F1 And pb_rot3.Location = F1 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F2 And pb_rot3.Location = F2 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F3 And pb_rot3.Location = F3 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F4 And pb_rot3.Location = F4 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F5 And pb_rot3.Location = F5 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F6 And pb_rot3.Location = F6 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F7 And pb_rot3.Location = F7 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F8 And pb_rot3.Location = F8 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F9 And pb_rot3.Location = F9 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F10 And pb_rot3.Location = F10 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F11 And pb_rot3.Location = F11 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F12 And pb_rot3.Location = F12 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F13 And pb_rot3.Location = F13 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F14 And pb_rot3.Location = F14 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F15 And pb_rot3.Location = F15 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F16 And pb_rot3.Location = F16 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F17 And pb_rot3.Location = F17 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F18 And pb_rot3.Location = F18 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F19 And pb_rot3.Location = F19 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F20 And pb_rot3.Location = F20 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F21 And pb_rot3.Location = F21 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F22 And pb_rot3.Location = F22 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F23 And pb_rot3.Location = F23 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F24 And pb_rot3.Location = F24 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F25 And pb_rot3.Location = F25 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F26 And pb_rot3.Location = F26 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F27 And pb_rot3.Location = F27 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F28 And pb_rot3.Location = F28 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F29 And pb_rot3.Location = F29 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F30 And pb_rot3.Location = F30 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F31 And pb_rot3.Location = F31 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F32 And pb_rot3.Location = F32 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F33 And pb_rot3.Location = F33 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F34 And pb_rot3.Location = F34 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F35 And pb_rot3.Location = F35 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F36 And pb_rot3.Location = F36 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F37 And pb_rot3.Location = F37 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F38 And pb_rot3.Location = F38 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F39 And pb_rot3.Location = F39 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F40 And pb_rot3.Location = F40 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        End If
+
+        If pb_blau1.Location = F1 And pb_rot4.Location = F1 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F2 And pb_rot4.Location = F2 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F3 And pb_rot4.Location = F3 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F4 And pb_rot4.Location = F4 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F5 And pb_rot4.Location = F5 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F6 And pb_rot4.Location = F6 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F7 And pb_rot4.Location = F7 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F8 And pb_rot4.Location = F8 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F9 And pb_rot4.Location = F9 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F10 And pb_rot4.Location = F10 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F11 And pb_rot4.Location = F11 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F12 And pb_rot4.Location = F12 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F13 And pb_rot4.Location = F13 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F14 And pb_rot4.Location = F14 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F15 And pb_rot4.Location = F15 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F16 And pb_rot4.Location = F16 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F17 And pb_rot4.Location = F17 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F18 And pb_rot4.Location = F18 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F19 And pb_rot4.Location = F19 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F20 And pb_rot4.Location = F20 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F21 And pb_rot4.Location = F21 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F22 And pb_rot4.Location = F22 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F23 And pb_rot4.Location = F23 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F24 And pb_rot4.Location = F24 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F25 And pb_rot4.Location = F25 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F26 And pb_rot4.Location = F26 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F27 And pb_rot4.Location = F27 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F28 And pb_rot4.Location = F28 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F29 And pb_rot4.Location = F29 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F30 And pb_rot4.Location = F30 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F31 And pb_rot4.Location = F31 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F32 And pb_rot4.Location = F32 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F33 And pb_rot4.Location = F33 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F34 And pb_rot4.Location = F34 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F35 And pb_rot4.Location = F35 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F36 And pb_rot4.Location = F36 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F37 And pb_rot4.Location = F37 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F38 And pb_rot4.Location = F38 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F39 And pb_rot4.Location = F39 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau1.Location = F40 And pb_rot4.Location = F40 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        End If
+
+        If pb_blau2.Location = F1 And pb_rot1.Location = F1 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F2 And pb_rot1.Location = F2 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F3 And pb_rot1.Location = F3 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F4 And pb_rot1.Location = F4 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F5 And pb_rot1.Location = F5 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F6 And pb_rot1.Location = F6 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F7 And pb_rot1.Location = F7 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F8 And pb_rot1.Location = F8 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F9 And pb_rot1.Location = F9 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F10 And pb_rot1.Location = F10 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F11 And pb_rot1.Location = F11 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F12 And pb_rot1.Location = F12 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F13 And pb_rot1.Location = F13 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F14 And pb_rot1.Location = F14 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F15 And pb_rot1.Location = F15 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F16 And pb_rot1.Location = F16 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F17 And pb_rot1.Location = F17 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F18 And pb_rot1.Location = F18 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F19 And pb_rot1.Location = F19 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F20 And pb_rot1.Location = F20 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F21 And pb_rot1.Location = F21 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F22 And pb_rot1.Location = F22 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F23 And pb_rot1.Location = F23 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F24 And pb_rot1.Location = F24 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F25 And pb_rot1.Location = F25 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F26 And pb_rot1.Location = F26 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F27 And pb_rot1.Location = F27 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F28 And pb_rot1.Location = F28 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F29 And pb_rot1.Location = F29 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F30 And pb_rot1.Location = F30 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F31 And pb_rot1.Location = F31 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F32 And pb_rot1.Location = F32 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F33 And pb_rot1.Location = F33 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F34 And pb_rot1.Location = F34 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F35 And pb_rot1.Location = F35 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F36 And pb_rot1.Location = F36 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F37 And pb_rot1.Location = F37 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F38 And pb_rot1.Location = F38 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F39 And pb_rot1.Location = F39 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F40 And pb_rot1.Location = F40 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        End If
+
+        If pb_blau2.Location = F1 And pb_rot2.Location = F1 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F2 And pb_rot2.Location = F2 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F3 And pb_rot2.Location = F3 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F4 And pb_rot2.Location = F4 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F5 And pb_rot2.Location = F5 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F6 And pb_rot2.Location = F6 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F7 And pb_rot2.Location = F7 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F8 And pb_rot2.Location = F8 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F9 And pb_rot2.Location = F9 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F10 And pb_rot2.Location = F10 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F11 And pb_rot2.Location = F11 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F12 And pb_rot2.Location = F12 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F13 And pb_rot2.Location = F13 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F14 And pb_rot2.Location = F14 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F15 And pb_rot2.Location = F15 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F16 And pb_rot2.Location = F16 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F17 And pb_rot2.Location = F17 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F18 And pb_rot2.Location = F18 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F19 And pb_rot2.Location = F19 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F20 And pb_rot2.Location = F20 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F21 And pb_rot2.Location = F21 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F22 And pb_rot2.Location = F22 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F23 And pb_rot2.Location = F23 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F24 And pb_rot2.Location = F24 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F25 And pb_rot2.Location = F25 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F26 And pb_rot2.Location = F26 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F27 And pb_rot2.Location = F27 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F28 And pb_rot2.Location = F28 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F29 And pb_rot2.Location = F29 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F30 And pb_rot2.Location = F30 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F31 And pb_rot2.Location = F31 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F32 And pb_rot2.Location = F32 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F33 And pb_rot2.Location = F33 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F34 And pb_rot2.Location = F34 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F35 And pb_rot2.Location = F35 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F36 And pb_rot2.Location = F36 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F37 And pb_rot2.Location = F37 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F38 And pb_rot2.Location = F38 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F39 And pb_rot2.Location = F39 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F40 And pb_rot2.Location = F40 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        End If
+
+        If pb_blau2.Location = F1 And pb_rot3.Location = F1 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F2 And pb_rot3.Location = F2 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F3 And pb_rot3.Location = F3 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F4 And pb_rot3.Location = F4 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F5 And pb_rot3.Location = F5 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F6 And pb_rot3.Location = F6 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F7 And pb_rot3.Location = F7 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F8 And pb_rot3.Location = F8 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F9 And pb_rot3.Location = F9 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F10 And pb_rot3.Location = F10 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F11 And pb_rot3.Location = F11 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F12 And pb_rot3.Location = F12 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F13 And pb_rot3.Location = F13 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F14 And pb_rot3.Location = F14 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F15 And pb_rot3.Location = F15 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F16 And pb_rot3.Location = F16 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F17 And pb_rot3.Location = F17 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F18 And pb_rot3.Location = F18 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F19 And pb_rot3.Location = F19 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F20 And pb_rot3.Location = F20 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F21 And pb_rot3.Location = F21 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F22 And pb_rot3.Location = F22 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F23 And pb_rot3.Location = F23 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F24 And pb_rot3.Location = F24 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F25 And pb_rot3.Location = F25 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F26 And pb_rot3.Location = F26 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F27 And pb_rot3.Location = F27 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F28 And pb_rot3.Location = F28 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F29 And pb_rot3.Location = F29 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F30 And pb_rot3.Location = F30 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F31 And pb_rot3.Location = F31 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F32 And pb_rot3.Location = F32 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F33 And pb_rot3.Location = F33 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F34 And pb_rot3.Location = F34 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F35 And pb_rot3.Location = F35 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F36 And pb_rot3.Location = F36 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F37 And pb_rot3.Location = F37 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F38 And pb_rot3.Location = F38 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F39 And pb_rot3.Location = F39 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F40 And pb_rot3.Location = F40 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        End If
+
+        If pb_blau2.Location = F1 And pb_rot4.Location = F1 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F2 And pb_rot4.Location = F2 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F3 And pb_rot4.Location = F3 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F4 And pb_rot4.Location = F4 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F5 And pb_rot4.Location = F5 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F6 And pb_rot4.Location = F6 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F7 And pb_rot4.Location = F7 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F8 And pb_rot4.Location = F8 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F9 And pb_rot4.Location = F9 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F10 And pb_rot4.Location = F10 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F11 And pb_rot4.Location = F11 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F12 And pb_rot4.Location = F12 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F13 And pb_rot4.Location = F13 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F14 And pb_rot4.Location = F14 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F15 And pb_rot4.Location = F15 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F16 And pb_rot4.Location = F16 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F17 And pb_rot4.Location = F17 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F18 And pb_rot4.Location = F18 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F19 And pb_rot4.Location = F19 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F20 And pb_rot4.Location = F20 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F21 And pb_rot4.Location = F21 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F22 And pb_rot4.Location = F22 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F23 And pb_rot4.Location = F23 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F24 And pb_rot4.Location = F24 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F25 And pb_rot4.Location = F25 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F26 And pb_rot4.Location = F26 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F27 And pb_rot4.Location = F27 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F28 And pb_rot4.Location = F28 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F29 And pb_rot4.Location = F29 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F30 And pb_rot4.Location = F30 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F31 And pb_rot4.Location = F31 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F32 And pb_rot4.Location = F32 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F33 And pb_rot4.Location = F33 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F34 And pb_rot4.Location = F34 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F35 And pb_rot4.Location = F35 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F36 And pb_rot4.Location = F36 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F37 And pb_rot4.Location = F37 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F38 And pb_rot4.Location = F38 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F39 And pb_rot4.Location = F39 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        ElseIf pb_blau2.Location = F40 And pb_rot4.Location = F40 And rb_blau1.Checked = True Then
+            pb_rot1.Location = RB1
+            LäuferRot1 = 0
+        End If
+
+
+
+
+
+
+
     End Sub
 
     Private Sub cmd_würfel_Click(sender As Object, e As EventArgs) Handles cmd_würfel.Click
