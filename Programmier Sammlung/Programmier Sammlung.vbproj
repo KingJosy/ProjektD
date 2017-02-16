@@ -86,16 +86,22 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BMI Rechner.Designer.vb">
+    <Compile Include="Projektsammlung\BMI Rechner.Designer.vb">
       <DependentUpon>BMI Rechner.vb</DependentUpon>
     </Compile>
-    <Compile Include="BMI Rechner.vb">
+    <Compile Include="Projektsammlung\BMI Rechner.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mensch_ärgere_dich_nicht.Designer.vb">
+    <Compile Include="Jones.Designer.vb">
+      <DependentUpon>Jones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Jones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Projektsammlung\Mensch_ärgere_dich_nicht.Designer.vb">
       <DependentUpon>Mensch_ärgere_dich_nicht.vb</DependentUpon>
     </Compile>
-    <Compile Include="Mensch_ärgere_dich_nicht.vb">
+    <Compile Include="Projektsammlung\Mensch_ärgere_dich_nicht.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -119,42 +125,51 @@
     <Compile Include="Programm Sammlung.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Rechner.Designer.vb">
+    <Compile Include="Projektsammlung\Rechner.Designer.vb">
       <DependentUpon>Rechner.vb</DependentUpon>
     </Compile>
-    <Compile Include="Rechner.vb">
+    <Compile Include="Projektsammlung\Rechner.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Sonne_Mond.Designer.vb">
+    <Compile Include="Projektsammlung\Sonne_Mond.Designer.vb">
       <DependentUpon>Sonne_Mond.vb</DependentUpon>
     </Compile>
-    <Compile Include="Sonne_Mond.vb">
+    <Compile Include="Projektsammlung\Sonne_Mond.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Zahlenraten.Designer.vb">
+    <Compile Include="Projektsammlung\Zahlenraten.Designer.vb">
       <DependentUpon>Zahlenraten.vb</DependentUpon>
     </Compile>
-    <Compile Include="Zahlenraten.vb">
+    <Compile Include="Projektsammlung\Zahlenraten.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Zinsrechner.Designer.vb">
+    <Compile Include="Projektsammlung\Zinsrechner.Designer.vb">
       <DependentUpon>Zinsrechner.vb</DependentUpon>
     </Compile>
-    <Compile Include="Zinsrechner.vb">
+    <Compile Include="Projektsammlung\Zinsrechner.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Öhmischer Rechner.Designer.vb">
+    <Compile Include="Projektsammlung\Öhmischer Rechner.Designer.vb">
       <DependentUpon>Öhmischer Rechner.vb</DependentUpon>
     </Compile>
-    <Compile Include="Öhmischer Rechner.vb">
+    <Compile Include="Projektsammlung\Öhmischer Rechner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start.Designer.vb">
+      <DependentUpon>Start.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Start.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="BMI Rechner.resx">
+    <EmbeddedResource Include="Projektsammlung\BMI Rechner.resx">
       <DependentUpon>BMI Rechner.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Mensch_ärgere_dich_nicht.resx">
+    <EmbeddedResource Include="Jones.resx">
+      <DependentUpon>Jones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Projektsammlung\Mensch_ärgere_dich_nicht.resx">
       <DependentUpon>Mensch_ärgere_dich_nicht.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -166,20 +181,23 @@
     <EmbeddedResource Include="Programm Sammlung.resx">
       <DependentUpon>Programm Sammlung.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Rechner.resx">
+    <EmbeddedResource Include="Projektsammlung\Rechner.resx">
       <DependentUpon>Rechner.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Sonne_Mond.resx">
+    <EmbeddedResource Include="Projektsammlung\Sonne_Mond.resx">
       <DependentUpon>Sonne_Mond.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Zahlenraten.resx">
+    <EmbeddedResource Include="Projektsammlung\Zahlenraten.resx">
       <DependentUpon>Zahlenraten.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Zinsrechner.resx">
+    <EmbeddedResource Include="Projektsammlung\Zinsrechner.resx">
       <DependentUpon>Zinsrechner.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Öhmischer Rechner.resx">
+    <EmbeddedResource Include="Projektsammlung\Öhmischer Rechner.resx">
       <DependentUpon>Öhmischer Rechner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.resx">
+      <DependentUpon>Start.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
