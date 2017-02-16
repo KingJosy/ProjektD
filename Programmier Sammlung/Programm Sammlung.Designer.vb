@@ -32,7 +32,6 @@ Partial Class Programm_Sammlung
         Me.cmd_Mensch = New System.Windows.Forms.Button()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.cmd_ÖhmischerRechner = New System.Windows.Forms.Button()
-        Me.cmd_Jones = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -117,22 +116,11 @@ Partial Class Programm_Sammlung
         Me.cmd_ÖhmischerRechner.Text = "Ohm Rechner"
         Me.cmd_ÖhmischerRechner.UseVisualStyleBackColor = True
         '
-        'cmd_Jones
-        '
-        Me.cmd_Jones.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.cmd_Jones.Location = New System.Drawing.Point(141, 264)
-        Me.cmd_Jones.Name = "cmd_Jones"
-        Me.cmd_Jones.Size = New System.Drawing.Size(75, 23)
-        Me.cmd_Jones.TabIndex = 9
-        Me.cmd_Jones.Text = "Jones"
-        Me.cmd_Jones.UseVisualStyleBackColor = True
-        '
         'Programm_Sammlung
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(430, 406)
-        Me.Controls.Add(Me.cmd_Jones)
         Me.Controls.Add(Me.cmd_ÖhmischerRechner)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.cmd_Mensch)
@@ -158,5 +146,4 @@ Partial Class Programm_Sammlung
     Friend WithEvents cmd_Mensch As Button
     Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
     Friend WithEvents cmd_ÖhmischerRechner As System.Windows.Forms.Button
-    Friend WithEvents cmd_Jones As System.Windows.Forms.Button
 End Class

@@ -5,7 +5,8 @@
     End Sub
 
     Private Sub cmd_End_Click(sender As Object, e As EventArgs) Handles cmd_End.Click
-        End
+        Start.Show()
+        Me.Close()
     End Sub
 
     Private Sub cmd_sonne_mond_Click(sender As Object, e As EventArgs) Handles cmd_sonne_mond.Click

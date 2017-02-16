@@ -161,6 +161,12 @@
     <Compile Include="Start.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Jones\Würfel.Designer.vb">
+      <DependentUpon>Würfel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Jones\Würfel.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Projektsammlung\BMI Rechner.resx">
@@ -198,6 +204,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Start.resx">
       <DependentUpon>Start.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jones\Würfel.resx">
+      <DependentUpon>Würfel.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
